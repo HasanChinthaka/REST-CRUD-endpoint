@@ -1,5 +1,5 @@
 {
-  "name": "assignment",
+  "name": "REST-CRUD-Endpointt",
   "version": "1.0.0",
   "description": "Create a REST API from Basic CRUD for Advanced Software System Design subject as an assignment",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "restful",
     "api"
   ],
-  "author": "Hasan Chinthaka",
+  "author": "P.G.R.H.C.Bandara_ITT1819013_0970",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
